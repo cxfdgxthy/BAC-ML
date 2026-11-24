@@ -1,1 +1,1 @@
-Guided implementations of reinforcement learning algorithms. 
+Guided implementations of reinforcement learning algorithms. Includes a DQN using convolutions. Acheived 97.6% against a greedy opponent on my training run. Generalization unkown.
